@@ -1,0 +1,6 @@
+{
+  "name": "EGrading - Sistema de Calificaciones y Gestión Escolar",
+  "description": "Plataforma de gestión académica y boletín de calificaciones por competencias para colegios y liceos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

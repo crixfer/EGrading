@@ -1,0 +1,6 @@
+{
+  "summary":  "Plan de implementación exhaustivo para la plataforma SaaS EGrading: gestión de calificaciones por competencias (COM, PLC, CYT, EYC, CF) según el currículo dominicano (MINERD), soporte multi-rol (Administrador, Profesor, Padre), boletín oficial idéntico al Liceo República de Guatemala con exportación PDF/HTML/Excel, tablero de analíticas, control de asistencia, sincronización offline y paleta elegante inspirada en la bandera dominicana.",
+  "updatedAt":  "2026-10-10T16:17:42.152819902Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
